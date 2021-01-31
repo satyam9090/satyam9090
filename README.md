@@ -25,7 +25,7 @@ Basically it depends on mood.
 ### Reach Out
 
 ⚡⚡⚡ [Website](https://satyam9090.github.io "Basically it depends on mood.") ⚡⚡⚡
-
+⚡⚡⚡ <a href="https://satyam9090.github.io" target="_blank">Website</a> ⚡⚡⚡
 
 <!--
 **satyam9090/satyam9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
