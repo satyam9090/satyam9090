@@ -1,3 +1,15 @@
+<!--
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+✨✨ IF YOU ARE READING THIS ✨✨
+✨✨ ....DO REACH ME OUT.... ✨✨ 
+✨✨ ..ON INSTAGRAM OR MAIL. ✨✨
+✨✨ (links are given below) ✨✨
+✨✨ (It'll be a great convo)✨✨
+✨✨ Do mention I found your ✨✨
+✨✨ ....(Secret Message)... ✨✨
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+-->
+
 <img src="satyam.png" alt="Satyam, Satyam Chauhan, Satyam Singh Chauhan, Logo, Banner"/>
 
 ## Hello! This is Satyam Chauhan... ^_^
@@ -16,7 +28,7 @@ Basically it depends on mood.
 ### Projects (Checkout my github for more) 🤫
  - Mining Bitcoin 💲💰🤑 using Python (A simulation to tell how feasible will it be for your computer to actually mine it and whether your computer will be able to do it)
  - Instagram Bot 👀 (Nothing as such to be honest just for fun)
- - Webistes for Private Companies 💡
+ - Webiste for Private Companies 💡
  - Research work on Genetic algorithm 🧐
  - Then few ML Projects 🤷🤷🤷
 
@@ -28,22 +40,7 @@ Basically it depends on mood.
  - 📸 [Instagram](https://www.instagram.com/satyam.naman/) 📸
  - 🧑‍ [Facebook](https://www.facebook.com/SatyamSinghChauhan9090) 🧑‍
  - ✍️ [Medium](https://medium.com/@sat00yam) ✍️
+ - 📧 [Mail](mailto:sat00yam@gmail.com) 📧
+ 
+<img src="satyam-horizontal-rule.png" alt="Satyam, Satyam Chauhan, Satyam Singh Chauhan, Logo, Banner" height = "5" width = "100%"/>
 
-
-
-
-
-<!--
-**satyam9090/satyam9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-satyam-horizontal-rule.png
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
