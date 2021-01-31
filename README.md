@@ -22,15 +22,14 @@ Basically it depends on mood.
 
 <img src="satyam-horizontal-rule.png" alt="Satyam, Satyam Chauhan, Satyam Singh Chauhan, Logo, Banner" height = "5" width = "100%"/>
 
-### Reach Out
+### Reach Out 🕺 🕺 
+ - ⚡ [Website](https://satyam9090.github.io") ⚡
+ - 👍 [Linkedin](https://www.linkedin.com/in/satyam9090") 👍
+ - 📸 [Instagram](https://www.instagram.com/satyam.naman/) 📸
+ - 🧑‍ [Facebook](https://www.facebook.com/SatyamSinghChauhan9090) 🧑‍
+ - ✍️ [Medium](https://medium.com/@sat00yam) ✍️
 
-⚡⚡⚡ [Website](https://satyam9090.github.io") ⚡⚡⚡
 
-👍👍👍 [Linkedin](https://www.linkedin.com/in/satyam9090") 👍👍👍
-
-📸📸📸 [Instagram](https://www.instagram.com/satyam.naman/) 📸📸📸
-
-🧑‍🧑‍🧑‍ 
 
 
 
