@@ -2,6 +2,7 @@
 
 ## Hello! This is Satyam Chauhan... ^_^
 
+😊 Coder, ❤️ New Tech Conversation, 🥰 Financial Markets | (AI, Optimization Algorithms, ML, Cloud, and Sometimes Web 😅)
 <img src="satyam-horizontal-rule.png" alt="Satyam, Satyam Chauhan, Satyam Singh Chauhan, Logo, Banner" height = "5" width = "100%"/>
 
 🤔 So what do I do? Basically it depends on mood.
