@@ -2,7 +2,7 @@
 
 ## Hello! This is Satyam Chauhan... ^_^
 
-*😊 Coder, ❤️ New Tech Conversation, 🥰 Financial Markets | (AI, Optimization Algorithms, ML, Cloud, and Sometimes Web 😅)*
+*😊 Coder, ❤️ New Tech Conversation, 🥰 Financial Markets | (AI 💻, Optimization Algorithms, ML, Cloud 👨‍💻, and Sometimes Web 😅)*
 <img src="satyam-horizontal-rule.png" alt="Satyam, Satyam Chauhan, Satyam Singh Chauhan, Logo, Banner" height = "5" width = "100%"/>
 
 ### So what do I do? 🤔
@@ -24,8 +24,15 @@ Basically it depends on mood.
 
 ### Reach Out
 
-⚡⚡⚡ [Website](https://satyam9090.github.io "Basically it depends on mood.") ⚡⚡⚡
-⚡⚡⚡ <a href="https://satyam9090.github.io" target="_blank">Website</a> ⚡⚡⚡
+⚡⚡⚡ [Website](https://satyam9090.github.io") ⚡⚡⚡
+
+👍👍👍 [Linkedin](https://www.linkedin.com/in/satyam9090") 👍👍👍
+
+📸📸📸 [Instagram](https://www.instagram.com/satyam.naman/) 📸📸📸
+
+🧑‍🧑‍🧑‍ 
+
+
 
 <!--
 **satyam9090/satyam9090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
